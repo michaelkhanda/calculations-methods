@@ -1,0 +1,13 @@
+/Users/michaelkhanda/Desktop/CalculationsMethods/obj/Debug/netcoreapp3.1/CalculationsMethods.csproj.AssemblyReference.cache
+/Users/michaelkhanda/Desktop/CalculationsMethods/obj/Debug/netcoreapp3.1/CalculationsMethods.GeneratedMSBuildEditorConfig.editorconfig
+/Users/michaelkhanda/Desktop/CalculationsMethods/obj/Debug/netcoreapp3.1/CalculationsMethods.AssemblyInfoInputs.cache
+/Users/michaelkhanda/Desktop/CalculationsMethods/obj/Debug/netcoreapp3.1/CalculationsMethods.AssemblyInfo.cs
+/Users/michaelkhanda/Desktop/CalculationsMethods/obj/Debug/netcoreapp3.1/CalculationsMethods.csproj.CoreCompileInputs.cache
+/Users/michaelkhanda/Desktop/CalculationsMethods/bin/Debug/netcoreapp3.1/CalculationsMethods.deps.json
+/Users/michaelkhanda/Desktop/CalculationsMethods/bin/Debug/netcoreapp3.1/CalculationsMethods.runtimeconfig.json
+/Users/michaelkhanda/Desktop/CalculationsMethods/bin/Debug/netcoreapp3.1/CalculationsMethods.runtimeconfig.dev.json
+/Users/michaelkhanda/Desktop/CalculationsMethods/bin/Debug/netcoreapp3.1/CalculationsMethods.dll
+/Users/michaelkhanda/Desktop/CalculationsMethods/bin/Debug/netcoreapp3.1/CalculationsMethods.pdb
+/Users/michaelkhanda/Desktop/CalculationsMethods/obj/Debug/netcoreapp3.1/CalculationsMethods.dll
+/Users/michaelkhanda/Desktop/CalculationsMethods/obj/Debug/netcoreapp3.1/CalculationsMethods.pdb
+/Users/michaelkhanda/Desktop/CalculationsMethods/obj/Debug/netcoreapp3.1/CalculationsMethods.genruntimeconfig.cache
